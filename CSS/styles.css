@@ -1,0 +1,21 @@
+html, body {
+	background-color: darkblue;
+	margin: 0%;
+}
+
+header {
+	font-size: 35px;
+	background-color: green;
+	width: 100%;
+	height: 50px;
+}
+main {
+	color: black;
+	font-size: 45px;
+	background-color: darkblue;
+	margin:15px 0px;
+}
+footer {
+	font-size: 30px;
+	background-color: red;
+}
